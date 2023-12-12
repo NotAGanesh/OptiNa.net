@@ -1,0 +1,440 @@
+.rectangle-icon,
+.side-design-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2469px;
+  height: 1535px;
+}
+.rectangle-icon {
+  border-radius: 40px;
+  width: 628.5px;
+  height: 367.4px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.card-child,
+.platinum {
+  position: absolute;
+  transform: rotate(-5.31deg);
+  transform-origin: 0 0;
+}
+.card-child {
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background: linear-gradient(
+    107.63deg,
+    rgba(255, 255, 255, 0.46),
+    rgba(255, 255, 255, 0)
+  );
+  filter: blur(2px);
+  backdrop-filter: blur(60px);
+  width: 628.5px;
+  height: 367.4px;
+}
+.platinum {
+  top: 27.5px;
+  left: 46.4px;
+  letter-spacing: 0.05em;
+  font-weight: 100;
+  display: inline-block;
+  width: 238.4px;
+  height: 53px;
+}
+.flat-color-iconssim-card-chip {
+  position: absolute;
+  top: 84.9px;
+  left: 44.6px;
+  width: 90.3px;
+  height: 78.3px;
+  overflow: hidden;
+}
+.div {
+  position: absolute;
+  top: 178.7px;
+  left: 62.8px;
+  letter-spacing: 0.21em;
+  display: inline-block;
+  width: 524px;
+  height: 57.6px;
+  transform: rotate(-5.31deg);
+  transform-origin: 0 0;
+}
+.valid {
+  margin: 0;
+}
+.valid-from,
+.valid-thru {
+  position: absolute;
+  top: 235.7px;
+  left: 71.1px;
+  font-size: 15px;
+  font-weight: 500;
+  display: inline-block;
+  width: 52.5px;
+  height: 35.1px;
+  transform: rotate(-5.31deg);
+  transform-origin: 0 0;
+}
+.valid-thru {
+  top: 213.6px;
+  left: 309.1px;
+}
+.div1 {
+  top: 235.3px;
+  left: 124.1px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 69px;
+  height: 27.6px;
+}
+.div1,
+.div2,
+.shivanshu-mathur {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(-5.31deg);
+  transform-origin: 0 0;
+}
+.div2 {
+  top: 212.8px;
+  left: 361.2px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 59.4px;
+  height: 27.6px;
+}
+.shivanshu-mathur {
+  top: 299.7px;
+  left: 80.5px;
+  letter-spacing: 0.07em;
+  width: 330.3px;
+  height: 44.3px;
+}
+.rupay-logo-icon {
+  position: absolute;
+  top: 247.2px;
+  left: 495.3px;
+  width: 119.8px;
+  height: 51.3px;
+  object-fit: cover;
+}
+.card1 {
+  position: absolute;
+  top: 582.2px;
+  left: 204px;
+  width: 628.5px;
+  height: 367.4px;
+  transform: rotate(-5.31deg);
+  transform-origin: 0 0;
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  width: 751.7px;
+  height: 440.2px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.card-item,
+.platinum1 {
+  position: absolute;
+  transform: rotate(-17.03deg);
+  transform-origin: 0 0;
+}
+.card-item {
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background: linear-gradient(
+    107.63deg,
+    rgba(255, 255, 255, 0.46),
+    rgba(255, 255, 255, 0)
+  );
+  filter: blur(2px);
+  backdrop-filter: blur(60px);
+  width: 751.7px;
+  height: 440.2px;
+}
+.platinum1 {
+  top: 21px;
+  left: 61.1px;
+  letter-spacing: 0.05em;
+  font-weight: 100;
+  display: inline-block;
+  width: 285.1px;
+  height: 63.5px;
+}
+.flat-color-iconssim-card-chip1 {
+  position: absolute;
+  top: 88.8px;
+  left: 73px;
+  width: 108px;
+  height: 93.8px;
+  overflow: hidden;
+}
+.div3,
+.valid-from1,
+.valid-thru1 {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(-17.03deg);
+  transform-origin: 0 0;
+}
+.div3 {
+  top: 194.3px;
+  left: 117.1px;
+  letter-spacing: 0.21em;
+  width: 626.7px;
+  height: 69px;
+}
+.valid-from1,
+.valid-thru1 {
+  top: 259.2px;
+  left: 140.7px;
+  font-size: 15px;
+  font-weight: 500;
+  width: 62.8px;
+  height: 42.1px;
+}
+.valid-thru1 {
+  top: 175.5px;
+  left: 414px;
+}
+.div4 {
+  top: 245.9px;
+  left: 202.6px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 82.5px;
+  height: 33.1px;
+}
+.div4,
+.div5,
+.shivanshu-mathur1 {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(-17.03deg);
+  transform-origin: 0 0;
+}
+.div5 {
+  top: 161.9px;
+  left: 474.8px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 71px;
+  height: 33.1px;
+}
+.shivanshu-mathur1 {
+  top: 331.9px;
+  left: 167.3px;
+  letter-spacing: 0.07em;
+  width: 395.1px;
+  height: 53.1px;
+}
+.visa-inc-logo-undefined {
+  position: absolute;
+  top: 174px;
+  left: 656px;
+  width: 130px;
+  height: 40px;
+  overflow: hidden;
+}
+.card,
+.card2 {
+  position: absolute;
+}
+.card2 {
+  top: 220.2px;
+  left: 0;
+  width: 751.7px;
+  height: 440.2px;
+  transform: rotate(-17.03deg);
+  transform-origin: 0 0;
+}
+.card {
+  top: 72px;
+  left: 208px;
+  width: 863.8px;
+  height: 948px;
+  display: none;
+}
+.design-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1692px;
+  height: 1194px;
+}
+.healthiconsmoney-bag {
+  position: absolute;
+  top: 38px;
+  left: 58px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  display: none;
+}
+.about,
+.optina {
+  position: absolute;
+  display: inline-block;
+  width: 82px;
+  height: 42px;
+}
+.about {
+  top: 5px;
+  left: 1462px;
+  text-decoration: underline;
+  color: inherit;
+}
+.optina {
+  top: 2px;
+  left: 0;
+  font-weight: 600;
+}
+.pricing,
+.product,
+.sign-up {
+  position: absolute;
+  top: 5px;
+  left: 1004px;
+  display: none;
+  width: 115px;
+  height: 42px;
+}
+.pricing,
+.sign-up {
+  left: 1173px;
+}
+.sign-up {
+  left: 1342px;
+}
+.navbar-child {
+  position: absolute;
+  top: 0;
+  left: 1439px;
+  border-radius: 30px;
+  background-color: transparent;
+  border: 2px solid #fefefe;
+  box-sizing: border-box;
+  width: 117px;
+  height: 40px;
+}
+.navbar {
+  position: absolute;
+  top: 46px;
+  left: 106px;
+  width: 1556px;
+  height: 47px;
+  font-size: 26px;
+}
+.bidownload-icon,
+.emojionemoney-bag-icon {
+  position: absolute;
+  top: 503px;
+  left: 253px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.emojionemoney-bag-icon {
+  top: 282px;
+  left: 1110px;
+  width: 30px;
+  height: 30px;
+  display: none;
+}
+.content-child {
+  top: 543px;
+  left: 297px;
+  background: linear-gradient(-56.06deg, #1f0e88, #fff);
+  width: 65px;
+  height: 65px;
+}
+.content-child,
+.content-inner,
+.content-item {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: -4px 4px 4px rgba(30, 0, 0, 0.3);
+}
+.content-item {
+  top: 402px;
+  left: 115px;
+  background: linear-gradient(-54.05deg, #e06b85, #2b1d84);
+  width: 30px;
+  height: 30px;
+}
+.content-inner {
+  top: 158px;
+  left: 516px;
+  background: linear-gradient(-54.05deg, #edb5c1, #5b4faa);
+  width: 15px;
+  height: 15px;
+}
+.a-modpack-for,
+.best-fps-client-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 90px;
+  font-weight: 600;
+  display: inline-block;
+  width: 545px;
+  height: 279px;
+}
+.a-modpack-for {
+  top: 339px;
+  font-size: 16px;
+  font-weight: 500;
+  height: 121px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 482px;
+  left: 0;
+  border-radius: 30px;
+  background-color: #4e4cb7;
+  width: 184px;
+  height: 61px;
+}
+.download-modpack,
+.source {
+  position: absolute;
+  top: 499px;
+  left: 53px;
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 123px;
+  height: 23px;
+}
+.download-modpack {
+  top: 498px;
+  left: 277px;
+  width: 169px;
+}
+.content {
+  position: absolute;
+  top: 335px;
+  left: 1110px;
+  width: 545px;
+  height: 608px;
+  font-size: 24px;
+}
+.optina-home {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 30px;
+  color: #fff;
+  font-family: Roboto;
+}
